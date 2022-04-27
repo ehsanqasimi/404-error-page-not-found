@@ -93,7 +93,7 @@ body {
   color: #BDBDBD;
 }
 
-@media only screen and (min-width: 375px) {
+@media only screen and (min-width: 600px) {
   .container {
     display: -webkit-box;
     display: -ms-flexbox;
@@ -108,7 +108,7 @@ body {
   }
   .image {
     padding: 50px;
-    margin-top: 100px;
+    margin-top: 50px;
   }
   .text {
     padding: 50px;
